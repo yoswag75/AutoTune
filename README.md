@@ -1,4 +1,4 @@
-# 🎵 Streamlit Auto-Tuner
+# 🎵 Auto-Tuning 
 
 A web-based audio processing application built with Python, Streamlit, and Librosa. This tool performs automatic pitch correction (Auto-Tune) by detecting the fundamental frequency of audio segments and shifting them to the nearest musical note in the chromatic scale.
 
